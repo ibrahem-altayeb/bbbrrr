@@ -22,13 +22,13 @@ body{
   box-sizing: border-box;
 }
 .card{
-  background-color: var(--Very-dark-blue-mainBG);
+  background-color: var(--Very-dark-blue-cardBG);
   border-radius: 30px;
   padding: 15px;
-  max-width: 400px;
+  max-width: 320px;
 }
 .card .green {
-  max-width: 340px;
+  max-width: 100%;
 }
 .card > h1{
 color:var(--White);
